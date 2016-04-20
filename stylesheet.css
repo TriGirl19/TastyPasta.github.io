@@ -1,0 +1,127 @@
+body{
+    width: 960px;
+    margin: auto;
+    text-align: center;
+    background-color: #ffe4e1;
+    /* This is a very nice color for the website */
+    
+}
+
+span{
+    /* I dont think we need this */
+    background-color : lavender;
+}
+.nav{
+    width: 960px;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: lobster;
+    
+}
+
+h3{
+    /* This is for the menu*/
+    font-family: 'Satisfy', cursive;
+    color:purple;
+}
+/* all the divs for the nav bar should be float left */
+.home{
+    background-color: #dfc426;
+    width: 25%;
+    float: left;
+    text-align: center;
+}
+.about{
+    
+    background-color: pink;
+    width: 25%;
+    float:left;
+    text-align: center;
+    margin:0px;
+}
+
+
+.menu{
+    background-color: lightblue;
+    width: 25%;
+   float:left;
+    text-align: center;
+    margin:0px;
+}
+
+.location{
+    background-color: lightgreen;
+    width: 25%;
+    float:left;
+    text-align: center;
+    margin:0px;
+}
+
+.content{
+    background-color: #ffe4e1;
+    
+    
+}
+
+
+/* This for the table on the menue page */
+table{
+    margin:auto;
+    margin-bottom: 20px;
+    border:3px solid black;
+    
+}
+    
+th{
+    text-align: center;
+}
+    
+td{
+    text-align: left;
+     border-bottom: 1px dotted yellow;
+}
+    
+    
+img{
+    margin-top:20px;
+    margin-left:auto;
+     margin-right:auto;
+}
+    
+    
+ #manga{
+     font-family: lobster;
+     color:#FF0023;
+ }   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
